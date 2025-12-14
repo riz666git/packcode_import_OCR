@@ -63,7 +63,7 @@ function runOcrProcess() {
     }
 
     // 処理済みの画像ファイルは削除
-    // Drive.Files.remove(file.getId());
+    Drive.Files.remove(file.getId());
     // OCR処理に使ったdoc削除
     Drive.Files.remove(docFile.id);
   }

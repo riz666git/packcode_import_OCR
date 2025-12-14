@@ -6,7 +6,7 @@
 
 2.スプレッドシート内から拡張機能＞Apps Scriptを選択する
 
-3.任意のプロジェクト名とし、このコードを貼り付ける
+3.任意のプロジェクト名とし、packcode_import.gsを貼り付ける
 
 4.ソースコード内のTARGET_ID、FOLDER_ID、SHEET_NAMEを変更する
 
